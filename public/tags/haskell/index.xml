@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haskell on Blog de Gael</title>
+    <link>http://localhost:1313/tags/haskell/</link>
+    <description>Recent content in Haskell on Blog de Gael</description>
+    <generator>Hugo</generator>
+    <language>es-mx</language>
+    <lastBuildDate>Fri, 07 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalación del entorno de desarrollo Haskell</title>
+      <link>http://localhost:1313/posts/instalacion-haskell/</link>
+      <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/instalacion-haskell/</guid>
+      <description>Reporte sobre la instalación del entorno de desarrollo Haskell utilizando GHCup, y análisis de la aplicación TODO en Haskell.</description>
+    </item>
+  </channel>
+</rss>

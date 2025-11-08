@@ -1,0 +1,4 @@
+baseURL = "https://tuusuario.github.io/"
+languageCode = "es-mx"
+title = "Blog de Gael"
+theme = "ananke"
