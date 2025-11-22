@@ -1,4 +1,5 @@
-baseURL = "https://GaelFlores04.github.io/"
+baseURL = "https://gaelflores04.github.io/HUGO/"
+
 languageCode = "es-mx"
 title = "Blog de Gael"
 theme = "PaperMod"
