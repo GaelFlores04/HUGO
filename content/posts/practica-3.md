@@ -1,6 +1,7 @@
 ---
-title: "Instalación del entorno de desarrollo Haskell"
+title: "Practica 3:Instalación del entorno de desarrollo Haskell"
 date: 2025-11-07
+categories: ["practicas"]
 author: "Gael Flores Cañedo"
 summary: "Reporte sobre la instalación del entorno de desarrollo Haskell utilizando GHCup, y análisis de la aplicación TODO en Haskell."
 tags: ["Haskell", "GHCup", "Instalación", "Programación funcional"]

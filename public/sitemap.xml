@@ -11,6 +11,9 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-11-07T21:27:06-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ghcup/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,7 +23,10 @@
     <loc>http://localhost:1313/tags/instalaci%C3%B3n/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/instalacion-haskell/</loc>
+    <loc>http://localhost:1313/posts/practica-3/</loc>
+    <lastmod>2025-11-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/practicas/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/programaci%C3%B3n-funcional/</loc>
@@ -29,6 +35,25 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/tags/poo/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/practica-2/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/python/</loc>
+    <lastmod>2025-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/practica-1/</loc>
+    <lastmod>2025-09-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/markdown/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/practica-0/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
   </url>
 </urlset>
