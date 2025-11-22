@@ -11,6 +11,10 @@ buildFuture = false
 buildExpired = false
 canonifyURLs = true
 
+relativeURLs = true
+canonifyURLs = true
+
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
