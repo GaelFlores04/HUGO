@@ -1,7 +1,7 @@
 baseURL = 'https://gaelflores04.github.io/HUGO'
 languageCode = 'es-mx'
 title = 'Pagina Web De la Trackalosa'
-theme = 'ananke'
+theme = 'PaperMod'
 
 [params]
   site_logo = ''
